@@ -4,7 +4,7 @@
 [Codevember](http://codevember.xyz) is a challenge for developers to sharpen their creativity and improve their skills. The goal is to build a creative piece of code every day of November. We give you daily hints to inspire you but you can do unrelated sketches.
 
 ## About this app
-![preview image](/images/line.PNG)
+![preview image](/images/13_line.PNG)
 
 This app create vertical and horizontal lines randomly
 
